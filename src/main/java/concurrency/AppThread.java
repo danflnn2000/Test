@@ -23,7 +23,6 @@ public class AppThread extends Thread {
 			e.printStackTrace();
 		}
 				
-		///Users/danielmastrovito/Documents/Lynda Exercises/Ex_Files_Java_EE_Concurrency/Exercise Files/Chapter2/02_03/begin/sample.txt
 	}
 	
 	
