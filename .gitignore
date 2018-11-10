@@ -1,0 +1,7 @@
+/.gradle/
+/build/*
+/src/test/java/LibraryTest.java
+/src/main/java/Library.java
+**.DS_Store
+/.settings/org.eclipse.buildship.core.prefs
+/bin/*
